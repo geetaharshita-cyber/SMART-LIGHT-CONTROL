@@ -29,3 +29,7 @@ This project offers several advantages. It reduces electricity wastage, minimize
 The Street Light Control System can be further improved by adding motion sensors, solar panels, or Internet of Things (IoT) technology. Motion sensors can detect vehicles or pedestrians and increase the light brightness only when movement is detected. Solar panels can provide renewable energy to operate the system, making it environmentally friendly.
 
 In conclusion, the Street Light Control System is an innovative and practical hardware project that demonstrates the importance of automation and energy efficiency. It provides a simple solution for controlling street lights automatically and plays a significant role in reducing power consumption and promoting sustainable technology.
+
+#OUTPUT
+
+im<g width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/529efdc0-dda7-4356-805f-23ca92d5949a" />
