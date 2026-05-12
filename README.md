@@ -32,4 +32,4 @@ In conclusion, the Street Light Control System is an innovative and practical ha
 
 #OUTPUT
 
-im<g width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/529efdc0-dda7-4356-805f-23ca92d5949a" />
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/4cbdff58-cdad-4327-9294-390c3c6709fb" />
